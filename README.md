@@ -2,8 +2,7 @@
 
 Qrat is a simple Remote Administration Tool (RAT) written in Go.
 
-It lives as HTTP server and respond to JSON.
-
+It lives as HTTP server and respond to JSON. Default port is 226.
 
 
 ### Example
